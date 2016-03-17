@@ -21,8 +21,8 @@
 }
 
 .top {
-  background-color: #e0e0e0;
-  margin-left: 500px;
+
+
 }
 img {
   width: 125px;
@@ -34,5 +34,8 @@ img {
 }
 
 .hdr {
-  background-color: #e0e0e0;
+background-color: #e3e3e3;
+}
+.text {
+
 }
