@@ -9,12 +9,18 @@
 
 .green{
   background-color: #e0ffbb;
-  margin: 2px;
+  padding: 8px;
+  padding-color: white;
+  /*margin: 2px;*/
 }
 
 .blue{
   background-color: #bbe5ff;
-  margin: 2px;
+  /*margin: 2px;*/
   border: 10px;
   border-color: green;
+}
+
+.hdr {
+  background-color: #e0e0e0;
 }
