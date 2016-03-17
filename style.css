@@ -1,6 +1,8 @@
 
 .sidebar {
   background-color: white;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .sidebar li{
@@ -9,16 +11,26 @@
 
 .green{
   background-color: #e0ffbb;
-  padding: 8px;
-  padding-color: white;
-  /*margin: 2px;*/
+  margin: 2px;
 }
 
 .blue{
   background-color: #bbe5ff;
-  /*margin: 2px;*/
-  border: 10px;
+  margin: 2px;
   border-color: green;
+}
+
+.top {
+  background-color: #e0e0e0;
+  margin-left: 500px;
+}
+img {
+  width: 125px;
+}
+
+.container{
+  border-style:
+  border-color:
 }
 
 .hdr {
